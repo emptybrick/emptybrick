@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**emptybrick/emptybrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Engineer with hands-on experience building full-stack applications using JavaScript, React, Node.js, Django, MongoDB, and PostgreSQL.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express, Django
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **Bidhub** – Full-stack auction platform (React, Django, PostgreSQL)  
+  🔗 Live: https://bidhub-eb.netlify.app  
+  📦 Repo: https://github.com/emptybrick/Bidhub-Marketplace-React-Front-End
+
+- **Budgeo** – Budget tracking application (Node.js, MongoDB)  
+  🔗 Live: https://budgeo-9567fce59f41.herokuapp.com/budgeo  
+  📦 Repo: https://github.com/emptybrick/Budgeo
+
+- **Bitecraft** – Recipe and meal planning app (React, Node.js)  
+  🔗 Live: https://bitecraft.netlify.app  
+  📦 Repo: https://github.com/emptybrick/bitecraft-frontend
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/davidmcclintock-eb
